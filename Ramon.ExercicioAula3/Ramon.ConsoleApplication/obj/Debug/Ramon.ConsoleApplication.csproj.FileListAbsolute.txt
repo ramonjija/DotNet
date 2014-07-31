@@ -7,3 +7,6 @@ C:\Users\Ramon\Documents\Visual Studio 2012\Projects\Ramon.ExercicioAula3\Ramon.
 C:\Users\Ramon\Documents\Visual Studio 2012\Projects\Ramon.ExercicioAula3\Ramon.ConsoleApplication\obj\Debug\Ramon.ConsoleApplication.csprojResolveAssemblyReference.cache
 C:\Users\Ramon\Documents\Visual Studio 2012\Projects\Ramon.ExercicioAula3\Ramon.ConsoleApplication\obj\Debug\Ramon.ConsoleApplication.exe
 C:\Users\Ramon\Documents\Visual Studio 2012\Projects\Ramon.ExercicioAula3\Ramon.ConsoleApplication\obj\Debug\Ramon.ConsoleApplication.pdb
+C:\Users\AlunoInfnet\Documents\GitHub\DotNet\Ramon.ExercicioAula3\Ramon.ConsoleApplication\bin\Debug\Ramon.ConsoleApplication.exe.config
+C:\Users\AlunoInfnet\Documents\GitHub\DotNet\Ramon.ExercicioAula3\Ramon.ConsoleApplication\obj\Debug\Ramon.ConsoleApplication.exe
+C:\Users\AlunoInfnet\Documents\GitHub\DotNet\Ramon.ExercicioAula3\Ramon.ConsoleApplication\obj\Debug\Ramon.ConsoleApplication.pdb

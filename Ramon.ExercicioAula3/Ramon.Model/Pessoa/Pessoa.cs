@@ -10,7 +10,9 @@ namespace Ramon.Model
     {
         public int ID { get; set; }
         public String Nome { get; set; }
-        public int IDTelefone { get; set; } //Publica ou privada?
-        public int IDEndereco { get; set; }
+        public Endereco Endereco { get; set; }
+        public Telefone Telefone { get; set; }
+
+        public abstract String GetNome();
     }
 }

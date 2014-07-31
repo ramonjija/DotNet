@@ -12,6 +12,11 @@ namespace Ramon.Model
         public String RG { get; set; }
         public String Sobrenome { get; set; }
         public int Idade { get; set; }
-           
+
+
+        public override string GetNome()
+        {
+            return this.Nome + " " + this.Sobrenome;
+        }
     }
 }

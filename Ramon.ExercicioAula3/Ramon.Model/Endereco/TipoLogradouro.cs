@@ -8,9 +8,9 @@ namespace Ramon.Model
 {
     public enum TipoLogradouro
     {
-        Aeroporto, Alameda, Apartamento, Avenida, Beco, Bloco, 
+        Aeroporto, Alameda, Acampamento, Avenida, Beco, Bloco, 
         Caminho, Estacao, Estrada, Fazenda, Fortaleza, Galeria, 
         Ladeira, Largo, Praca, Praia, Quadra, Quilometro, Quinta,
-        Rodovia, Rua, Travessa, Viaduto, Vila
+        Rodovia, Rua, Travessa, Viaduto, Vila, Viela
     }
 }

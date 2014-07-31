@@ -35,26 +35,27 @@ namespace Ramon.ConsoleApplication
 
             Cidade cidade = new Cidade();
             cidade.ID = 24;
-            cidade.IDUF = 25;
+            cidade.UF = uf;
             cidade.Nome = "Rio de Janeiro";
 
             Bairro bairro = new Bairro();
             bairro.ID = 23;
-            bairro.IDCidade = 24;
+            bairro.Cidade = cidade;
             bairro.Nome = "Centro";
 
             Logradouro logradouro = new Logradouro();
             logradouro.ID = 22;
-            logradouro.IDBairro = 23;
+            logradouro.Bairro = bairro;
+            logradouro.Nome = "Senador Dantas";
             logradouro.Tipo = TipoLogradouro.Avenida;
+            logradouro.Numero = 29;
 
             Endereco endereco = new Endereco();
             endereco.ID = 1;
-            endereco.Nome = "Senador Dantas";
             endereco.Tipo = TipoEndereco.Residencial;
-            endereco.IDLogradouro = 22;
-            endereco.Numero = 29;
+            endereco.Logradouro = logradouro;
 
+            
             Console.WriteLine(
                 "ID: " + PFisica.ID + "\n" +
                 "CPF: " + PFisica.CPF + "\n" +

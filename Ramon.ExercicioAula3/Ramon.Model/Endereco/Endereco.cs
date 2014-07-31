@@ -9,10 +9,13 @@ namespace Ramon.Model
     public class Endereco
     {
         public int ID { get; set; }
-        public int IDLogradouro { get; set; }
+        public Logradouro Logradouro { get; set; }
         public TipoEndereco Tipo { get; set; }
-        public String Nome { get; set; }
-        public int Numero { get; set; }
+
+        public override string ToString()
+        {
+            return Tipo + " " + Logradouro.ToString();
+        }
     }
 }
 

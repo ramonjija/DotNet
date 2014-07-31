@@ -11,5 +11,10 @@ namespace Ramon.Model
         public String CNPJ { get; set; }
         public String IE { get; set; }
         public String RazaoSocial { get; set; }
+
+        public override string GetNome()
+        {
+            return this.Nome;
+        }
     }
 }

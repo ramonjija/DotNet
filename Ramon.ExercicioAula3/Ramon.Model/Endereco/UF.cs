@@ -11,5 +11,10 @@ namespace Ramon.Model
         public int ID { get; set; }
         public String Sigla { get; set; }
 
+        public override string ToString()
+        {
+            return this.Sigla;
+        }
+
     }
 }
