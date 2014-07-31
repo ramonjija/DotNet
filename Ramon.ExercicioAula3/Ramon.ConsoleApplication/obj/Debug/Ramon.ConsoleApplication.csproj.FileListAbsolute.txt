@@ -1,0 +1,9 @@
+c:\users\alunoinfnet\documents\visual studio 2012\Projects\Ramon.ExercicioAula3\Ramon.ConsoleApplication\bin\Debug\Ramon.ConsoleApplication.exe.config
+C:\Users\Ramon\Documents\Visual Studio 2012\Projects\Ramon.ExercicioAula3\Ramon.ConsoleApplication\bin\Debug\Ramon.ConsoleApplication.exe.config
+C:\Users\Ramon\Documents\Visual Studio 2012\Projects\Ramon.ExercicioAula3\Ramon.ConsoleApplication\bin\Debug\Ramon.ConsoleApplication.exe
+C:\Users\Ramon\Documents\Visual Studio 2012\Projects\Ramon.ExercicioAula3\Ramon.ConsoleApplication\bin\Debug\Ramon.ConsoleApplication.pdb
+C:\Users\Ramon\Documents\Visual Studio 2012\Projects\Ramon.ExercicioAula3\Ramon.ConsoleApplication\bin\Debug\Ramon.Model.dll
+C:\Users\Ramon\Documents\Visual Studio 2012\Projects\Ramon.ExercicioAula3\Ramon.ConsoleApplication\bin\Debug\Ramon.Model.pdb
+C:\Users\Ramon\Documents\Visual Studio 2012\Projects\Ramon.ExercicioAula3\Ramon.ConsoleApplication\obj\Debug\Ramon.ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\Ramon\Documents\Visual Studio 2012\Projects\Ramon.ExercicioAula3\Ramon.ConsoleApplication\obj\Debug\Ramon.ConsoleApplication.exe
+C:\Users\Ramon\Documents\Visual Studio 2012\Projects\Ramon.ExercicioAula3\Ramon.ConsoleApplication\obj\Debug\Ramon.ConsoleApplication.pdb

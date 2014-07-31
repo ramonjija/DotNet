@@ -1,0 +1,5 @@
+C:\Users\Ramon\Documents\Visual Studio 2012\Projects\Ramon.ExercicioAula3\Ramon.Model\bin\Debug\Ramon.Model.dll
+C:\Users\Ramon\Documents\Visual Studio 2012\Projects\Ramon.ExercicioAula3\Ramon.Model\bin\Debug\Ramon.Model.pdb
+C:\Users\Ramon\Documents\Visual Studio 2012\Projects\Ramon.ExercicioAula3\Ramon.Model\obj\Debug\Ramon.Model.dll
+C:\Users\Ramon\Documents\Visual Studio 2012\Projects\Ramon.ExercicioAula3\Ramon.Model\obj\Debug\Ramon.Model.pdb
+C:\Users\Ramon\Documents\Visual Studio 2012\Projects\Ramon.ExercicioAula3\Ramon.Model\obj\Debug\Ramon.Model.csprojResolveAssemblyReference.cache
